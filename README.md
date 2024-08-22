@@ -1,5 +1,7 @@
 Singapore Resale Flat Prices Prediction
 
+working video:https://www.linkedin.com/posts/siva-bharathi-n-9b233b1b4_guvi-machinelearning-datascience-activity-7232387987123093504-JGJ3?utm_source=share&utm_medium=member_desktop
+
 Overview
 
 Welcome to the Singapore Resale Flat Prices Prediction project! This project involves the development of a machine learning model to predict resale prices of flats in Singapore. By leveraging historical transaction data, the goal is to assist potential buyers and sellers in estimating the resale value of a flat.
